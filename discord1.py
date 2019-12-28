@@ -25,4 +25,4 @@ async def on_ready():
 #            await message.channel.send('pong')
 
 
-client.run('NTgyODM2NzM2ODI0OTY3MTY5.XOznHA.gWtO3I8rQu98bu6L6x1tcC3L9kc')
+client.run(')
